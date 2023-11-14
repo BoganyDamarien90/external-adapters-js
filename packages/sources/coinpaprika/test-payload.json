@@ -423,6 +423,45 @@
       {
         "from": "DPI",
         "to": "USD"
+      },
+      {
+        "from": "LINK",
+        "to": "USD",
+        "endpoint": "crypto"
+      },
+      {
+        "from": "LINK",
+        "to": "USD",
+        "endpoint": "price"
+      },
+      {
+        "from": "LINK",
+        "to": "USD",
+        "endpoint": "marketcap"
+      },
+      {
+        "from": "LINK",
+        "to": "USD",
+        "endpoint": "volume"
+      },
+      {
+        "endpoint": "coins"
+      },
+      {
+        "market": "BTC",
+        "endpoint": "globalmarketcap"
+      },
+      {
+        "market": "BTC",
+        "endpoint": "dominance"
+      },
+      {
+        "base": "ETH",
+        "endpoint": "vwap"
+      },
+      {
+        "base": "ETH",
+        "endpoint": "crypto-vwap"
       }
     ]
 }
