@@ -1,5 +1,11 @@
 # @chainlink/finage-test-adapter
 
+## 1.3.12
+
+### Patch Changes
+
+- [#3089](https://github.com/smartcontractkit/external-adapters-js/pull/3089) [`d94f8fd71`](https://github.com/smartcontractkit/external-adapters-js/commit/d94f8fd71edefea57d045ff242a6ad7d47cd650f) Thanks [@amit-momin](https://github.com/amit-momin)! - Added custom request routing to REST for specific pairs
+
 ## 1.3.11
 
 ### Patch Changes
